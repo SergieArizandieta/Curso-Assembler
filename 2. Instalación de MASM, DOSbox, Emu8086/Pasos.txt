@@ -1,0 +1,44 @@
+Pasos
+Instalar  Emu8086
+Instalar DOSBox
+Extraer MASM
+
+MASM:
+Colocar en la carpeta C
+Abrir DOSBox
+mount c: c:\masm611
+c:
+disk1\setup.exe
+
+Enter
+Install the microsft macro assembler
+MS-DOS/Mirosft Windows
+Todo Yes
+Hard Drive C
+Resumen No Changes
+Todo enter
+Exit Setup
+
+Crear MASM\
+Copiar del zip MASM611
+Crear \BIN\ASM\Actual ->  igual a 7 caracteres
+Pegar el archivo de pruebas 
+
+En dosbox en 
+DOSBox 0.74-3 Options
+keyb la
+mount c: c:\masm
+c:
+cd masm611
+cd bin
+ml asm\Pruebas\Hola.asm
+
+
+
+Emu8086
+https://emu8086.waxoo.com/descargar
+DOSbox
+https://www.dosbox.com/download.php?main=1
+MASM
+https://sourceforge.net/projects/masm611/
+
